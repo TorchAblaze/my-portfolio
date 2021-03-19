@@ -43,3 +43,7 @@ ol {
   background-color: rgb(255, 199, 167);
   padding: 10px;
 }
+
+.highlight {
+  background-color: gold;
+}
