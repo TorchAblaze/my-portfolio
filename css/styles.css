@@ -47,3 +47,15 @@ ol {
 .highlight {
   background-color: gold;
 }
+
+.float-left {
+  float: left;
+  width: 9%;
+  padding: 20px;
+}
+
+.float-right {
+  float: right;
+  width: 15%;
+  padding: 10px;
+}
