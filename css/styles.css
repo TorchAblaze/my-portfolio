@@ -1,0 +1,26 @@
+body {
+  font-family: cursive;
+  background-color: rgb(251, 203, 170);
+}
+
+img {
+  width: 20%;
+  height: auto;
+  background-size: contain;
+}
+
+.monospace {
+  font-family: Monaco, monospace;
+}
+
+.monospace h2 {
+  font-family: cursive;
+}
+
+.monospace h3 {
+  font-family: cursive;
+}
+
+.background {
+  background-color: rgb(233, 215, 241);
+}
