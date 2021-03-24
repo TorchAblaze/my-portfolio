@@ -17,11 +17,11 @@ Software Requirements
 
 Open via Bash/GitBash:
 
-1.  Clone this repository onto your computer by clicking the 'code' button and copying ``
+1.  Clone this repository onto your computer by clicking the 'code' button and copying `https://github.com/TorchAblaze/my-portfolio.git`
 2.  Navigate into the `portfolio-webpage` directory and open in Visual Studio Code or your preferred text editor
 3.  Open index.html in your web browser
 
-#### To see my live website go to !
+#### To see my [live website](TorchAblaze.github.io/my-portfolio) go to TorchAblaze.github.io/my-portfolio!
 
 ## Known Bugs
 
