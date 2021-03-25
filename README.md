@@ -6,7 +6,7 @@
 
 ## Description
 
-This webpage is my first attempt at creating a portfolio as part of a project at Epicodus. This page contains links to other GitHub projects I've worked on so far, as well as links to the GitHub profile of classmates who contributed towards them. It also contains some general information about my previous work experience, education, and interests.
+This webpage is my first attempt at creating a portfolio as part of a project at Epicodus. This page contains links to other GitHub projects I've worked on so far, as well as links to the GitHub profiles of classmates who contributed towards them. It also contains some general information about my previous work experience, education, and interests.
 
 ## Setup/Installation Requirements
 
@@ -21,7 +21,7 @@ Open via Bash/GitBash:
 2.  Navigate into the `portfolio-webpage` directory and open in Visual Studio Code or your preferred text editor
 3.  Open index.html in your web browser
 
-#### To see my [live website](TorchAblaze.github.io/my-portfolio) go to TorchAblaze.github.io/my-portfolio!
+#### To see my live website go to https://TorchAblaze.github.io/my-portfolio!
 
 ## Known Bugs
 
