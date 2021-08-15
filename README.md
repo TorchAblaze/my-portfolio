@@ -6,7 +6,7 @@
 
 ## Description
 
-This webpage is my first attempt at creating a portfolio as part of a project at Epicodus. This page contains links to other GitHub projects I've worked on so far, as well as links to the GitHub profiles of classmates who contributed towards them. It also contains some general information about my previous work experience, education, and interests.
+This project is my first attempt at creating a portfolio as part of a project at Epicodus. This webpage contains links to other GitHub projects I've worked on so far, as well as links to the GitHub profiles of classmates who contributed towards them. It also contains some general information about my previous work experience, education, and interests.
 
 ## Setup/Installation Requirements
 
@@ -35,7 +35,7 @@ _Please reach out through my GitHub account._
 
 - HTML
 - CSS
-- VSCode
+- Bootstrap
 
 ### License
 
