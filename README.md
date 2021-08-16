@@ -41,4 +41,6 @@ _Please reach out through my GitHub account._
 
 MIT License.
 
+All photos included on this website, including the background picture, were taken by Tiffany Greathead.
+
 Copyright (c) 2021 **_Tiffany Greathead_**
