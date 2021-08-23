@@ -6,7 +6,7 @@
 
 ## Description
 
-This project is my first attempt at creating a portfolio as part of a project at Epicodus. This webpage contains links to other GitHub projects I've worked on so far, as well as links to the GitHub profiles of classmates who contributed towards them. It also contains some general information about my previous work experience, education, and interests.
+My personal website. This webpage contains links to GitHub projects I've worked on, as well as links to the GitHub profiles of classmates who contributed towards them. It also includes some general information about my previous work experience, education and interests.
 
 ## Setup/Installation Requirements
 
@@ -33,14 +33,14 @@ _Please reach out through my GitHub account._
 
 ## Technologies Used
 
-- HTML
-- CSS
-- Bootstrap
+-   HTML
+-   CSS
+-   Bootstrap
 
 ### License
 
 MIT License.
 
-All photos included on this website, including the background picture, were taken by Tiffany Greathead
+All photos, including the background picture, were taken by Tiffany Greathead
 
 Copyright (c) 2021 **_Tiffany Greathead_**

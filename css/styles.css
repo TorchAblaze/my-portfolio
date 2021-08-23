@@ -1,53 +1,38 @@
 body {
   color: rgb(255, 199, 167);
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: Helvetica, sans-serif;
   background-image: url("../img/Fall.jpeg");
-  background-color: rgb(61, 61, 61);
-  text-align: center;
+  background-color: rgb(240, 123, 69);
+  background-size: auto;
+  background-position: relative;
+  text-align: left;
   font-size: larger;
-  max-width: 1500px;
   margin: 0 auto;
 }
 
-h1,
-h2,
-h3 {
-  font-family: "Courier New", Courier, monospace;
+ol li {
+  margin-top: 1rem;
 }
 
-h3 {
-  text-align: left;
-}
-
-img {
-  width: 40%;
-  height: auto;
-  background-size: contain;
-}
-
-ol {
-  text-align: left;
+ul li {
+  margin-top: 0;
 }
 
 a {
   color: rgb(255, 143, 79);
 }
 
-a:hover {
+a:link:hover,
+a:visited:hover {
   color: rgb(252, 95, 5);
+  text-decoration: none;
 }
 
 a:visited {
-  color: rgb(209, 79, 4);
-}
-
-.justify p {
-  text-align: justify;
+  color: rgb(209, 82, 9);
 }
 
 .heading {
-  /* margin: 2rem; */
-  /* padding: 2rem; */
   display: flex;
   flex-direction: row;
 }
@@ -57,27 +42,51 @@ a:visited {
   border-radius: 50%;
   width: 13rem;
   height: 13rem;
+  z-index: 100;
 }
 
 .header-text {
   margin: 4rem 4rem 4rem -5rem;
   background-color: rgba(61, 61, 61);
-  text-align: left;
   width: 100%;
-  z-index: -100;
+  z-index: 1;
   padding: 1.5rem 0 0.75rem 4.5rem;
   border-radius: 0 1rem 1rem 0;
 }
 
 .box-styles {
   margin: 12px;
-  background-color: rgba(61, 61, 61, 0.911);
+  background-color: rgba(61, 61, 61, 0.972);
   padding: 30px;
   border-radius: 10px;
 }
 
-.box-styles img {
-  width: 300px;
-  margin: 3px;
-  width: 300px;
+.coffee {
+  width: 12rem;
+  border-radius: 50%;
+  margin-top: -5rem;
+  margin-bottom: 4rem;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.links {
+  margin-top: 0.3rem;
+  margin-left: 11rem;
+}
+
+.box-styles p:last-of-type {
+  margin-bottom: 3rem;
+}
+
+footer {
+  background-color: rgb(61, 61, 61);
+  font-size: medium;
+  color: rgba(255, 199, 167, 0.705);
+  border-radius: 1rem;
+  text-align: center;
+  padding: 1.5rem 0.5rem 0.5rem 0.5rem;
+  margin-bottom: 2rem;
 }
