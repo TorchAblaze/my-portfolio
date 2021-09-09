@@ -21,7 +21,7 @@ Open via Bash/GitBash:
 2.  Navigate into the `portfolio-webpage` directory and open in Visual Studio Code or your preferred text editor
 3.  Open index.html in your web browser
 
-#### To see my live website go to https://TorchAblaze.github.io/my-portfolio!
+#### See my live website [here](https://TorchAblaze.github.io/my-portfolio)!
 
 ## Known Bugs
 
