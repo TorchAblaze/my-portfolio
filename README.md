@@ -1,6 +1,6 @@
 # _Tiffany's Portfolio_
 
-#### A webpage all about me and what I've learned so far at Epicodus, last updated on 3/19/21
+#### My first portfolio website, last updated on 9/9/21
 
 #### By _**Tiffany Greathead**_
 
@@ -33,9 +33,9 @@ _Please reach out through my GitHub account._
 
 ## Technologies Used
 
--   HTML
--   CSS
--   Bootstrap
+- HTML
+- CSS
+- Bootstrap
 
 ### License
 
