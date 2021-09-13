@@ -1,4 +1,4 @@
-# _Tiffany's Portfolio_
+# 🍁 _Tiffany's Portfolio_ 🍁
 
 #### My first portfolio website, last updated on 9/11/21
 
@@ -23,7 +23,7 @@ Open via Bash/GitBash:
 
 #### See my live website [here](https://TorchAblaze.github.io/my-portfolio)!
 
-## Known Bugs
+## Known Bugs 🐞
 
 _No known bugs at this time_
 
