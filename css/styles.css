@@ -25,7 +25,6 @@ a {
 a:link:hover,
 a:visited:hover {
   color: rgb(252, 95, 5);
-  text-decoration: none;
 }
 
 a:visited {
